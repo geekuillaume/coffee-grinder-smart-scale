@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    ".env": "shellscript",
+    "*.tpp": "cpp",
+    "functional": "cpp"
+  }
+}
